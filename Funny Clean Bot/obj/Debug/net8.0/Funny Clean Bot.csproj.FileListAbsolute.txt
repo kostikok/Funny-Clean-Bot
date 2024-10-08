@@ -1,0 +1,17 @@
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\bin\Debug\net8.0\Funny Clean Bot.exe
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\bin\Debug\net8.0\Funny Clean Bot.deps.json
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\bin\Debug\net8.0\Funny Clean Bot.runtimeconfig.json
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\bin\Debug\net8.0\Funny Clean Bot.dll
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\bin\Debug\net8.0\Funny Clean Bot.pdb
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.csproj.AssemblyReference.cache
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.AssemblyInfoInputs.cache
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.AssemblyInfo.cs
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.csproj.CoreCompileInputs.cache
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Cl.2A892379.Up2Date
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.dll
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\refint\Funny Clean Bot.dll
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.pdb
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\Funny Clean Bot.genruntimeconfig.cache
+C:\Users\kosti\OneDrive\Рабочий стол\Funny Clean Bot\Funny Clean Bot\Funny Clean Bot\obj\Debug\net8.0\ref\Funny Clean Bot.dll
